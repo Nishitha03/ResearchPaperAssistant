@@ -1,0 +1,9 @@
+llama-index>=0.10.0
+llama-index-llms-ollama>=0.1.0
+llama-index-embeddings-huggingface>=0.2.0
+streamlit>=1.28.0
+arxiv>=1.4.0
+sentence-transformers>=2.2.0
+torch>=2.0.0
+transformers>=4.30.0
+pypdf>=3.0.0
