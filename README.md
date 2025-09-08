@@ -12,6 +12,13 @@ A modern web application that allows you to upload academic papers and chat with
 - **Real-time Status**: Live updates on system status and processing progress
 - **Quick Questions**: Pre-built questions for common research inquiries
 
+
+<img width="1623" height="915" alt="Screenshot 2025-09-08 211030" src="https://github.com/user-attachments/assets/15878c58-9e72-4e04-a22b-a9b460da4e97" />
+
+<img width="1370" height="905" alt="Screenshot 2025-09-08 211052" src="https://github.com/user-attachments/assets/7ee1b016-b6e7-4301-bba6-0eaeed56a131" />
+
+<img width="1491" height="759" alt="Screenshot 2025-09-08 211105" src="https://github.com/user-attachments/assets/ffb5701f-b342-4362-9440-1ea4555738fd" />
+
 ## 🏗️ Architecture
 
 ```
